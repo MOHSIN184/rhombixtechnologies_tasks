@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+*.cover
+*.py,cover
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Virtualenv
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Artifacts - don't commit large trained models or full exported files by default
+# If you want to include them in the repo, remove these entries or use Git LFS.
+artifacts/
+
+# Logs
+*.log
+
+# Joblib/cache
+*.joblib
