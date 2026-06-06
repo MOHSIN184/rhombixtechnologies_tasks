@@ -1,0 +1,21 @@
+feature,importance
+num__user_track_frequency_30d,0.2208076
+num__track_plays_by_user_before,0.18376029
+cat__day_of_week_Sunday,0.07375457
+num__days_since_prev_same_track,0.056294456
+num__album_popularity,0.05288562
+cat__day_of_week_Saturday,0.036511965
+num__artist_popularity,0.036104802
+cat__day_of_week_Monday,0.0259535
+cat__day_of_week_Thursday,0.024499938
+cat__hour_bucket_Morning,0.024394555
+num__user_unique_artists_before,0.023143988
+cat__day_of_week_Wednesday,0.022575026
+cat__day_of_week_Friday,0.02217142
+cat__hour_bucket_Late Night,0.021824429
+cat__hour_bucket_Night,0.021660851
+cat__hour_bucket_Afternoon,0.021339657
+num__user_activity_30d,0.02113082
+cat__day_of_week_Tuesday,0.020536235
+num__hour_of_day,0.02043816
+num__user_unique_tracks_before,0.020208634

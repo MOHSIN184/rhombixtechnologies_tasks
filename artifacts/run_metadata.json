@@ -1,0 +1,9 @@
+{
+  "classification_model": "Logistic Regression",
+  "ranking_model": "XGBoost",
+  "cutoff_timestamp": "2021-01-31 17:19:00",
+  "train_rows": 132983,
+  "test_rows": 33158,
+  "total_users": 11,
+  "total_tracks": 67239
+}
